@@ -1,5 +1,5 @@
 nome = input("Digite seu nome: ")
 def imprimir_nome():
-  print("Seja muito bem-vindo, ", nome, ", espero que goste desse repositório")
+  print("Seja muito bem-vindo, ", nome, ", espero que goste deste repositório")
   
 imprimir_nome()
